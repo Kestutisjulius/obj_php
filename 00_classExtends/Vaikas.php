@@ -5,6 +5,12 @@ class Vaikas extends Tevas
     protected $posakis = 'bla bla';
     static public $posakis2 = 'aik seneli...'; //overridina
 
+    public function __construct()
+    {
+        parent::__construct();
+        echo 'vaiko konstruktorius';
+    }
+
     public function betvarke(){
         echo '<h3>betvarke</h3>';
     }
