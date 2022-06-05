@@ -1,4 +1,5 @@
 <?php
+namespace Old\Super;
 
 class Senelis
 {

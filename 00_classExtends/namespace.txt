@@ -1,0 +1,7 @@
+klasiu pavardes - namespace;
+need install composer.
+
+composer install.
+composer init after.
+
+..after edit .json - composer dump-autoload

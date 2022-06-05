@@ -1,5 +1,6 @@
 <?php
-
+namespace Meska\Lokys;
+use Old\Super\Senelis;
 class Tevas extends Senelis
 {
     public function tvarka(){

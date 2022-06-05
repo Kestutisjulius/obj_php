@@ -1,4 +1,5 @@
 <?php
+namespace Meska\Lokys;
 
 class Vaikas extends Tevas
 {
